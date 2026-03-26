@@ -1,36 +1,28 @@
-# 🐍 Desafios de Python: Mundo 1 (Fundamentos)
+🐍 Desafios de Python: Mundo 03 (Estruturas Compostas e Modularização)
+📝 Sobre este Repositório
+Este repositório registra a minha evolução técnica no Mundo 03 do Python. Aqui, o nível subiu para a Engenharia de Software: saí dos scripts de lógica simples para a construção de sistemas organizados, modulares e robustos. Este projeto é um pilar fundamental na minha graduação de ADS na Estácio, consolidando o conhecimento necessário para manipular grandes volumes de dados e criar pacotes reutilizáveis.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Estácio-ADS-blue?style=for-the-badge" alt="Estácio ADS Badge">
-  <img src="https://img.shields.io/badge/Mundo-1%20Concluído-blueviolet?style=for-the-badge" alt="Mundo 1">
-</div>
+🚀 O que eu dominei no Mundo 03:
+Até o exercício 115, concluí com sucesso:
+✅ Estruturas Compostas: Domínio avançado de Tuplas, Listas e Dicionários para gestão de dados.
+✅ Modularização: Organização de sistemas profissionais em módulos e pacotes (__init__.py).
+✅ Funções (Def): Uso estratégico de parâmetros dinâmicos, escopo de variáveis e retornos.
+✅ Tratamento de Erros: Implementação de try/except para garantir a resiliência do software.
+✅ Persistência de Dados: Leitura e escrita em arquivos externos para armazenamento persistente.
 
-<br>
+📊 Status do Portfólio
+Exercícios realizados: 115 (Acúmulo M1 + M2 + M3)
 
-## 📝 Sobre este Repositório
-Este projeto reúne os meus primeiros passos na programação com **Python**. Aqui estão resolvidos os 23 primeiros desafios do Mundo 1 do Curso em Vídeo, focados em lógica e conceitos fundamentais. Este esforço faz parte da minha formação em **Análise e Desenvolvimento de Sistemas** na **Estácio**.
+Fase atual: Concluído (Certificado de 40h emitido em 26/03/2026)
 
-## 🚀 O que eu aprendi no Mundo 1:
-Até o exercício 023, já dominei os seguintes tópicos:
-* ✅ Configuração de ambiente (PyCharm + Git).
-* ✅ Tratamento de dados e tipos primitivos.
-* ✅ Operações aritméticas e módulos do Python.
-* ✅ Manipulação de textos (Strings).
-* ✅ Primeiras estruturas de controle e lógica.
+Código de Validação: 3353-B2CB-3
 
-## 📊 Status do Portfólio
-- **Exercícios realizados:** 23
-- **Fase atual:** Finalizando Fundamentos (Mundo 1)
-- **Próximo objetivo:** Estruturas de Controle (Mundo 2)
+Foco de Carreira: Desenvolvedor Python / IA Engineer 🇺🇸 🇨🇦
 
-## 👤 Autor
-**Danilo Guimarães**
-* 🎓 Estudante de ADS - Estácio.
-* 📍 Campo Grande, Rio de Janeiro.
-* 💻 Máquina de Desenvolvimento: 128GB RAM / PyCharm.
+👤 Autor
+Danilo Guimarães
+🎓 Estudante de ADS - Estácio.
+👨‍👩‍👧‍👦 Foco: Construindo o futuro para Gael, Maria e Alice.
+💻 Stack: PyCharm Pro / Linux Mint / Git / Python 3.
 
----
-<div align="center">
-  <p>Focado na transição para a área de TI 🚀</p>
-</div>
+Focado na transição para a área de TI e imigração para a América do Norte. 🚀
